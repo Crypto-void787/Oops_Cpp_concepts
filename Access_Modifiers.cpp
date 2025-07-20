@@ -45,7 +45,6 @@ int main(){
       s1.get_marks(32) ;
       s1.setter_marks(24) ;
       
-      
       Student s2 ; 
       s2.name = "Ahmad" ; 
       s2.roll_no = 04 ; 
